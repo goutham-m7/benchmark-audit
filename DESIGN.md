@@ -4,6 +4,8 @@ Two public releases answer different questions. For MMLU high-school statistics,
 
 For Openbenchmarks Lookalikes P@10, keep each seed's integer numerator, denominator 10 and missingness. Compare the same seeds within each pair; never simulate per-seed results from aggregate percentages. Predeclare two contrasts: CompanyEnrich vs PredictLeads (top two) and CompanyEnrich vs Exa (widely used search baseline). Resample paired seed differences; use Bonferroni intervals across the two contrasts. Conditional on these seeds, the observed board is exact: uncertainty is about other similar seeds, not measurement noise in published arithmetic. These exploratory comparisons do not certify the entire ranking.
 
+The Open LLM Leaderboard archive also publishes both per-question predictions and matching score summaries for the April 19, 2024 five-shot Llama 3 8B base/Instruct runs. Use these actual frozen selections rather than generating surrogate answers. Match full stems and ordered choices, verify the published accuracy for every item and run, inspect same-alternative disagreement against Redux, and report the single paired subject-level gap independently of the Lookalikes contrast family. Regrade both frozen selections from the same blind local judge votes. Judge-replay receipts bind raw votes to the input digest; means and intervals must be reproducible without rerunning inference.
+
 ## Implementation and verification plan
 
 1. Freeze licensed, source-hashed public inputs and normalized row IDs; no employer artifacts, credentials or vendor reruns. Data refresh aborts on provenance/coverage mismatch rather than combining releases. Ship normalized fixtures; no model or network dependency in ordinary runs.

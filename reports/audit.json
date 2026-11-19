@@ -1,0 +1,7373 @@
+{
+  "items": 216,
+  "overlap_config": {
+    "n": 5,
+    "dimensions": 16,
+    "lexical_threshold": 0.8,
+    "embedding_threshold": 0.95
+  },
+  "overlap": {
+    "development": {
+      "documents": 28,
+      "lexical_flags": 3,
+      "exact_stem_and_choices_ids": [],
+      "embedding_flags": 7,
+      "either_flags": 7,
+      "by_item": [
+        {
+          "id": "test/0",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 0.60496656
+          }
+        },
+        {
+          "id": "test/1",
+          "lexical": {
+            "id": "dev/0",
+            "score": 0.02272727
+          },
+          "embedding": {
+            "id": "validation/0",
+            "score": 0.69605164
+          }
+        },
+        {
+          "id": "test/2",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/14",
+            "score": 0.77542407
+          }
+        },
+        {
+          "id": "test/3",
+          "lexical": {
+            "id": "validation/15",
+            "score": 0.57142857
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 0.99525018
+          }
+        },
+        {
+          "id": "test/4",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/4",
+            "score": 0.83528735
+          }
+        },
+        {
+          "id": "test/5",
+          "lexical": {
+            "id": "validation/12",
+            "score": 0.01694915
+          },
+          "embedding": {
+            "id": "validation/12",
+            "score": 0.80751883
+          }
+        },
+        {
+          "id": "test/6",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/12",
+            "score": 0.68595609
+          }
+        },
+        {
+          "id": "test/7",
+          "lexical": {
+            "id": "validation/20",
+            "score": 0.01851852
+          },
+          "embedding": {
+            "id": "validation/20",
+            "score": 0.70072457
+          }
+        },
+        {
+          "id": "test/8",
+          "lexical": {
+            "id": "dev/0",
+            "score": 0.16666667
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 0.97559976
+          }
+        },
+        {
+          "id": "test/9",
+          "lexical": {
+            "id": "dev/0",
+            "score": 0.10526316
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 0.81313021
+          }
+        },
+        {
+          "id": "test/10",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/12",
+            "score": 0.63816875
+          }
+        },
+        {
+          "id": "test/11",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/17",
+            "score": 0.61140696
+          }
+        },
+        {
+          "id": "test/12",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "dev/3",
+            "score": 0.79633901
+          }
+        },
+        {
+          "id": "test/13",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/12",
+            "score": 0.87377585
+          }
+        },
+        {
+          "id": "test/14",
+          "lexical": {
+            "id": "dev/0",
+            "score": 0.4
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 0.78652964
+          }
+        },
+        {
+          "id": "test/15",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/3",
+            "score": 0.71999685
+          }
+        },
+        {
+          "id": "test/16",
+          "lexical": {
+            "id": "validation/14",
+            "score": 0.03225806
+          },
+          "embedding": {
+            "id": "validation/12",
+            "score": 0.69264783
+          }
+        },
+        {
+          "id": "test/17",
+          "lexical": {
+            "id": "dev/0",
+            "score": 0.06666667
+          },
+          "embedding": {
+            "id": "dev/1",
+            "score": 0.64378837
+          }
+        },
+        {
+          "id": "test/18",
+          "lexical": {
+            "id": "validation/4",
+            "score": 0.01449275
+          },
+          "embedding": {
+            "id": "validation/4",
+            "score": 0.74035831
+          }
+        },
+        {
+          "id": "test/19",
+          "lexical": {
+            "id": "validation/11",
+            "score": 0.125
+          },
+          "embedding": {
+            "id": "validation/8",
+            "score": 0.83936853
+          }
+        },
+        {
+          "id": "test/20",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/22",
+            "score": 0.881456
+          }
+        },
+        {
+          "id": "test/21",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/11",
+            "score": 0.87429399
+          }
+        },
+        {
+          "id": "test/22",
+          "lexical": {
+            "id": "dev/0",
+            "score": 0.1
+          },
+          "embedding": {
+            "id": "validation/2",
+            "score": 0.64413457
+          }
+        },
+        {
+          "id": "test/23",
+          "lexical": {
+            "id": "dev/3",
+            "score": 0.01960784
+          },
+          "embedding": {
+            "id": "dev/3",
+            "score": 0.65839953
+          }
+        },
+        {
+          "id": "test/24",
+          "lexical": {
+            "id": "validation/20",
+            "score": 0.01408451
+          },
+          "embedding": {
+            "id": "validation/16",
+            "score": 0.71510866
+          }
+        },
+        {
+          "id": "test/25",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "dev/3",
+            "score": 0.7125407
+          }
+        },
+        {
+          "id": "test/26",
+          "lexical": {
+            "id": "dev/0",
+            "score": 0.25
+          },
+          "embedding": {
+            "id": "dev/0",
+            "score": 0.96100527
+          }
+        },
+        {
+          "id": "test/27",
+          "lexical": {
+            "id": "dev/0",
+            "score": 0.03658537
+          },
+          "embedding": {
+            "id": "validation/11",
+            "score": 0.63432224
+          }
+        },
+        {
+          "id": "test/28",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "dev/4",
+            "score": 0.72940459
+          }
+        },
+        {
+          "id": "test/29",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/1",
+            "score": 0.70220151
+          }
+        },
+        {
+          "id": "test/30",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/6",
+            "score": 0.57185793
+          }
+        },
+        {
+          "id": "test/31",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/12",
+            "score": 0.82146756
+          }
+        },
+        {
+          "id": "test/32",
+          "lexical": {
+            "id": "dev/0",
+            "score": 0.05263158
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 0.70590043
+          }
+        },
+        {
+          "id": "test/33",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/6",
+            "score": 0.64801956
+          }
+        },
+        {
+          "id": "test/34",
+          "lexical": {
+            "id": "dev/0",
+            "score": 0.025
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 0.76294104
+          }
+        },
+        {
+          "id": "test/35",
+          "lexical": {
+            "id": "validation/1",
+            "score": 0.01666667
+          },
+          "embedding": {
+            "id": "validation/1",
+            "score": 0.67212426
+          }
+        },
+        {
+          "id": "test/36",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/6",
+            "score": 0.60790932
+          }
+        },
+        {
+          "id": "test/37",
+          "lexical": {
+            "id": "dev/0",
+            "score": 0.03157895
+          },
+          "embedding": {
+            "id": "validation/12",
+            "score": 0.70565448
+          }
+        },
+        {
+          "id": "test/38",
+          "lexical": {
+            "id": "dev/0",
+            "score": 0.09090909
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 0.77927238
+          }
+        },
+        {
+          "id": "test/39",
+          "lexical": {
+            "id": "dev/0",
+            "score": 0.04
+          },
+          "embedding": {
+            "id": "validation/20",
+            "score": 0.60934337
+          }
+        },
+        {
+          "id": "test/40",
+          "lexical": {
+            "id": "validation/12",
+            "score": 0.2
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 0.93654659
+          }
+        },
+        {
+          "id": "test/41",
+          "lexical": {
+            "id": "validation/1",
+            "score": 0.02272727
+          },
+          "embedding": {
+            "id": "validation/13",
+            "score": 0.75299491
+          }
+        },
+        {
+          "id": "test/42",
+          "lexical": {
+            "id": "validation/6",
+            "score": 0.02777778
+          },
+          "embedding": {
+            "id": "validation/6",
+            "score": 0.7566093
+          }
+        },
+        {
+          "id": "test/43",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/10",
+            "score": 0.68971574
+          }
+        },
+        {
+          "id": "test/44",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/5",
+            "score": 0.79032347
+          }
+        },
+        {
+          "id": "test/45",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/12",
+            "score": 0.72062105
+          }
+        },
+        {
+          "id": "test/46",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/0",
+            "score": 0.60416006
+          }
+        },
+        {
+          "id": "test/47",
+          "lexical": {
+            "id": "dev/0",
+            "score": 0.01694915
+          },
+          "embedding": {
+            "id": "validation/18",
+            "score": 0.7284775
+          }
+        },
+        {
+          "id": "test/48",
+          "lexical": {
+            "id": "validation/14",
+            "score": 0.02150538
+          },
+          "embedding": {
+            "id": "validation/17",
+            "score": 0.60245589
+          }
+        },
+        {
+          "id": "test/49",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/6",
+            "score": 0.564714
+          }
+        },
+        {
+          "id": "test/50",
+          "lexical": {
+            "id": "dev/0",
+            "score": 0.03125
+          },
+          "embedding": {
+            "id": "validation/21",
+            "score": 0.72481893
+          }
+        },
+        {
+          "id": "test/51",
+          "lexical": {
+            "id": "dev/0",
+            "score": 0.15
+          },
+          "embedding": {
+            "id": "dev/0",
+            "score": 0.73588751
+          }
+        },
+        {
+          "id": "test/52",
+          "lexical": {
+            "id": "dev/0",
+            "score": 0.04166667
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 0.80208066
+          }
+        },
+        {
+          "id": "test/53",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/10",
+            "score": 0.67292718
+          }
+        },
+        {
+          "id": "test/54",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "dev/0",
+            "score": 0.86039967
+          }
+        },
+        {
+          "id": "test/55",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/17",
+            "score": 0.79490376
+          }
+        },
+        {
+          "id": "test/56",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "dev/1",
+            "score": 0.83255769
+          }
+        },
+        {
+          "id": "test/57",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/10",
+            "score": 0.85056882
+          }
+        },
+        {
+          "id": "test/58",
+          "lexical": {
+            "id": "validation/12",
+            "score": 0.04081633
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 0.74256887
+          }
+        },
+        {
+          "id": "test/59",
+          "lexical": {
+            "id": "dev/0",
+            "score": 0.08695652
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 0.75053318
+          }
+        },
+        {
+          "id": "test/60",
+          "lexical": {
+            "id": "dev/3",
+            "score": 0.01298701
+          },
+          "embedding": {
+            "id": "validation/13",
+            "score": 0.66049073
+          }
+        },
+        {
+          "id": "test/61",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/5",
+            "score": 0.67753097
+          }
+        },
+        {
+          "id": "test/62",
+          "lexical": {
+            "id": "dev/0",
+            "score": 0.04444444
+          },
+          "embedding": {
+            "id": "validation/12",
+            "score": 0.81830479
+          }
+        },
+        {
+          "id": "test/63",
+          "lexical": {
+            "id": "validation/14",
+            "score": 0.06382979
+          },
+          "embedding": {
+            "id": "validation/12",
+            "score": 0.7896889
+          }
+        },
+        {
+          "id": "test/64",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/7",
+            "score": 0.69203418
+          }
+        },
+        {
+          "id": "test/65",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/12",
+            "score": 0.63983901
+          }
+        },
+        {
+          "id": "test/66",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "dev/3",
+            "score": 0.5926392
+          }
+        },
+        {
+          "id": "test/67",
+          "lexical": {
+            "id": "validation/0",
+            "score": 0.08571429
+          },
+          "embedding": {
+            "id": "dev/3",
+            "score": 0.77153681
+          }
+        },
+        {
+          "id": "test/68",
+          "lexical": {
+            "id": "dev/0",
+            "score": 0.01724138
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 0.67670588
+          }
+        },
+        {
+          "id": "test/69",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/12",
+            "score": 0.65090742
+          }
+        },
+        {
+          "id": "test/70",
+          "lexical": {
+            "id": "dev/0",
+            "score": 0.125
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 0.86237448
+          }
+        },
+        {
+          "id": "test/71",
+          "lexical": {
+            "id": "dev/0",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "dev/0",
+            "score": 0.97954462
+          }
+        },
+        {
+          "id": "test/72",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "dev/3",
+            "score": 0.62837196
+          }
+        },
+        {
+          "id": "test/73",
+          "lexical": {
+            "id": "dev/0",
+            "score": 0.16666667
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 0.80095503
+          }
+        },
+        {
+          "id": "test/74",
+          "lexical": {
+            "id": "validation/20",
+            "score": 0.03030303
+          },
+          "embedding": {
+            "id": "validation/20",
+            "score": 0.88446032
+          }
+        },
+        {
+          "id": "test/75",
+          "lexical": {
+            "id": "dev/2",
+            "score": 0.025
+          },
+          "embedding": {
+            "id": "validation/17",
+            "score": 0.75789925
+          }
+        },
+        {
+          "id": "test/76",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/7",
+            "score": 0.59964504
+          }
+        },
+        {
+          "id": "test/77",
+          "lexical": {
+            "id": "validation/20",
+            "score": 0.02
+          },
+          "embedding": {
+            "id": "validation/7",
+            "score": 0.61868087
+          }
+        },
+        {
+          "id": "test/78",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 0.78598155
+          }
+        },
+        {
+          "id": "test/79",
+          "lexical": {
+            "id": "dev/0",
+            "score": 0.07142857
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 0.75456289
+          }
+        },
+        {
+          "id": "test/80",
+          "lexical": {
+            "id": "validation/14",
+            "score": 0.02702703
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 0.67437157
+          }
+        },
+        {
+          "id": "test/81",
+          "lexical": {
+            "id": "validation/20",
+            "score": 0.02222222
+          },
+          "embedding": {
+            "id": "validation/13",
+            "score": 0.74310919
+          }
+        },
+        {
+          "id": "test/82",
+          "lexical": {
+            "id": "validation/15",
+            "score": 0.21052632
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 0.92259732
+          }
+        },
+        {
+          "id": "test/83",
+          "lexical": {
+            "id": "validation/12",
+            "score": 0.02040816
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 0.67293898
+          }
+        },
+        {
+          "id": "test/84",
+          "lexical": {
+            "id": "dev/0",
+            "score": 0.05
+          },
+          "embedding": {
+            "id": "validation/19",
+            "score": 0.63521401
+          }
+        },
+        {
+          "id": "test/85",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/5",
+            "score": 0.68903802
+          }
+        },
+        {
+          "id": "test/86",
+          "lexical": {
+            "id": "validation/0",
+            "score": 0.01449275
+          },
+          "embedding": {
+            "id": "validation/17",
+            "score": 0.66900755
+          }
+        },
+        {
+          "id": "test/87",
+          "lexical": {
+            "id": "dev/3",
+            "score": 0.02
+          },
+          "embedding": {
+            "id": "validation/1",
+            "score": 0.89946235
+          }
+        },
+        {
+          "id": "test/88",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 0.66399743
+          }
+        },
+        {
+          "id": "test/89",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/13",
+            "score": 0.56101905
+          }
+        },
+        {
+          "id": "test/90",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/12",
+            "score": 0.71389103
+          }
+        },
+        {
+          "id": "test/91",
+          "lexical": {
+            "id": "validation/15",
+            "score": 0.11111111
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 0.81435003
+          }
+        },
+        {
+          "id": "test/92",
+          "lexical": {
+            "id": "dev/0",
+            "score": 0.2
+          },
+          "embedding": {
+            "id": "validation/9",
+            "score": 0.83212595
+          }
+        },
+        {
+          "id": "test/93",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/14",
+            "score": 0.64914547
+          }
+        },
+        {
+          "id": "test/94",
+          "lexical": {
+            "id": "dev/0",
+            "score": 0.05882353
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 0.67977172
+          }
+        },
+        {
+          "id": "test/95",
+          "lexical": {
+            "id": "validation/14",
+            "score": 0.01834862
+          },
+          "embedding": {
+            "id": "validation/12",
+            "score": 0.66955384
+          }
+        },
+        {
+          "id": "test/96",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/17",
+            "score": 0.69918441
+          }
+        },
+        {
+          "id": "test/97",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/17",
+            "score": 0.72218478
+          }
+        },
+        {
+          "id": "test/98",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/19",
+            "score": 0.71629313
+          }
+        },
+        {
+          "id": "test/99",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/11",
+            "score": 0.64197339
+          }
+        },
+        {
+          "id": "test/100",
+          "lexical": {
+            "id": "validation/4",
+            "score": 0.01694915
+          },
+          "embedding": {
+            "id": "validation/7",
+            "score": 0.73185139
+          }
+        },
+        {
+          "id": "test/101",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/21",
+            "score": 0.64636265
+          }
+        },
+        {
+          "id": "test/102",
+          "lexical": {
+            "id": "dev/3",
+            "score": 0.025
+          },
+          "embedding": {
+            "id": "validation/13",
+            "score": 0.79651006
+          }
+        },
+        {
+          "id": "test/103",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/12",
+            "score": 0.61425831
+          }
+        },
+        {
+          "id": "test/104",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/19",
+            "score": 0.57455432
+          }
+        },
+        {
+          "id": "test/105",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/21",
+            "score": 0.62168267
+          }
+        },
+        {
+          "id": "test/106",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/5",
+            "score": 0.6888329
+          }
+        },
+        {
+          "id": "test/107",
+          "lexical": {
+            "id": "validation/4",
+            "score": 0.01960784
+          },
+          "embedding": {
+            "id": "validation/21",
+            "score": 0.72272613
+          }
+        },
+        {
+          "id": "test/108",
+          "lexical": {
+            "id": "dev/1",
+            "score": 0.18181818
+          },
+          "embedding": {
+            "id": "dev/1",
+            "score": 0.94422748
+          }
+        },
+        {
+          "id": "test/109",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/6",
+            "score": 0.62462335
+          }
+        },
+        {
+          "id": "test/110",
+          "lexical": {
+            "id": "dev/0",
+            "score": 0.02325581
+          },
+          "embedding": {
+            "id": "dev/3",
+            "score": 0.62996559
+          }
+        },
+        {
+          "id": "test/111",
+          "lexical": {
+            "id": "validation/4",
+            "score": 0.01176471
+          },
+          "embedding": {
+            "id": "validation/7",
+            "score": 0.63204982
+          }
+        },
+        {
+          "id": "test/112",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/2",
+            "score": 0.8853946
+          }
+        },
+        {
+          "id": "test/113",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "dev/3",
+            "score": 0.64838023
+          }
+        },
+        {
+          "id": "test/114",
+          "lexical": {
+            "id": "validation/8",
+            "score": 0.16666667
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 0.86555996
+          }
+        },
+        {
+          "id": "test/115",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/7",
+            "score": 0.71905114
+          }
+        },
+        {
+          "id": "test/116",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/7",
+            "score": 0.6963655
+          }
+        },
+        {
+          "id": "test/117",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "dev/0",
+            "score": 0.61119335
+          }
+        },
+        {
+          "id": "test/118",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/8",
+            "score": 0.78132594
+          }
+        },
+        {
+          "id": "test/119",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/11",
+            "score": 0.59434583
+          }
+        },
+        {
+          "id": "test/120",
+          "lexical": {
+            "id": "validation/20",
+            "score": 0.02040816
+          },
+          "embedding": {
+            "id": "dev/4",
+            "score": 0.69398493
+          }
+        },
+        {
+          "id": "test/121",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/12",
+            "score": 0.68825942
+          }
+        },
+        {
+          "id": "test/122",
+          "lexical": {
+            "id": "validation/12",
+            "score": 0.42857143
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 0.93021046
+          }
+        },
+        {
+          "id": "test/123",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/12",
+            "score": 0.62647389
+          }
+        },
+        {
+          "id": "test/124",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/20",
+            "score": 0.73103419
+          }
+        },
+        {
+          "id": "test/125",
+          "lexical": {
+            "id": "validation/20",
+            "score": 0.02777778
+          },
+          "embedding": {
+            "id": "validation/13",
+            "score": 0.67350165
+          }
+        },
+        {
+          "id": "test/126",
+          "lexical": {
+            "id": "validation/4",
+            "score": 0.02083333
+          },
+          "embedding": {
+            "id": "validation/13",
+            "score": 0.71327617
+          }
+        },
+        {
+          "id": "test/127",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/22",
+            "score": 0.65128057
+          }
+        },
+        {
+          "id": "test/128",
+          "lexical": {
+            "id": "validation/15",
+            "score": 0.19047619
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 0.91890058
+          }
+        },
+        {
+          "id": "test/129",
+          "lexical": {
+            "id": "validation/4",
+            "score": 0.01694915
+          },
+          "embedding": {
+            "id": "validation/0",
+            "score": 0.65764523
+          }
+        },
+        {
+          "id": "test/130",
+          "lexical": {
+            "id": "validation/12",
+            "score": 0.08955224
+          },
+          "embedding": {
+            "id": "validation/12",
+            "score": 0.70465919
+          }
+        },
+        {
+          "id": "test/131",
+          "lexical": {
+            "id": "validation/12",
+            "score": 0.05357143
+          },
+          "embedding": {
+            "id": "validation/12",
+            "score": 0.82266943
+          }
+        },
+        {
+          "id": "test/132",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "dev/4",
+            "score": 0.6000137
+          }
+        },
+        {
+          "id": "test/133",
+          "lexical": {
+            "id": "dev/0",
+            "score": 0.11111111
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 0.89593309
+          }
+        },
+        {
+          "id": "test/134",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/12",
+            "score": 0.66482552
+          }
+        },
+        {
+          "id": "test/135",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 0.62142709
+          }
+        },
+        {
+          "id": "test/136",
+          "lexical": {
+            "id": "dev/2",
+            "score": 0.01785714
+          },
+          "embedding": {
+            "id": "validation/21",
+            "score": 0.58301805
+          }
+        },
+        {
+          "id": "test/137",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/6",
+            "score": 0.71354505
+          }
+        },
+        {
+          "id": "test/138",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/17",
+            "score": 0.57753322
+          }
+        },
+        {
+          "id": "test/139",
+          "lexical": {
+            "id": "validation/15",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/140",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/4",
+            "score": 0.7170995
+          }
+        },
+        {
+          "id": "test/141",
+          "lexical": {
+            "id": "validation/14",
+            "score": 0.66666667
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 0.93710938
+          }
+        },
+        {
+          "id": "test/142",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/5",
+            "score": 0.5331773
+          }
+        },
+        {
+          "id": "test/143",
+          "lexical": {
+            "id": "dev/0",
+            "score": 0.01538462
+          },
+          "embedding": {
+            "id": "validation/12",
+            "score": 0.66494484
+          }
+        },
+        {
+          "id": "test/144",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/11",
+            "score": 0.58047637
+          }
+        },
+        {
+          "id": "test/145",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/11",
+            "score": 0.74015516
+          }
+        },
+        {
+          "id": "test/146",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/13",
+            "score": 0.61403777
+          }
+        },
+        {
+          "id": "test/147",
+          "lexical": {
+            "id": "validation/12",
+            "score": 0.22222222
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 0.88545953
+          }
+        },
+        {
+          "id": "test/148",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/17",
+            "score": 0.67236914
+          }
+        },
+        {
+          "id": "test/149",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/16",
+            "score": 0.73214036
+          }
+        },
+        {
+          "id": "test/150",
+          "lexical": {
+            "id": "validation/5",
+            "score": 0.01923077
+          },
+          "embedding": {
+            "id": "validation/13",
+            "score": 0.81069697
+          }
+        },
+        {
+          "id": "test/151",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/5",
+            "score": 0.64997578
+          }
+        },
+        {
+          "id": "test/152",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/17",
+            "score": 0.64031149
+          }
+        },
+        {
+          "id": "test/153",
+          "lexical": {
+            "id": "validation/0",
+            "score": 0.06976744
+          },
+          "embedding": {
+            "id": "validation/13",
+            "score": 0.72418384
+          }
+        },
+        {
+          "id": "test/154",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/5",
+            "score": 0.77450094
+          }
+        },
+        {
+          "id": "test/155",
+          "lexical": {
+            "id": "dev/3",
+            "score": 0.01538462
+          },
+          "embedding": {
+            "id": "validation/13",
+            "score": 0.70848691
+          }
+        },
+        {
+          "id": "test/156",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/16",
+            "score": 0.66740636
+          }
+        },
+        {
+          "id": "test/157",
+          "lexical": {
+            "id": "dev/0",
+            "score": 0.08695652
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 0.65904224
+          }
+        },
+        {
+          "id": "test/158",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/13",
+            "score": 0.84493423
+          }
+        },
+        {
+          "id": "test/159",
+          "lexical": {
+            "id": "dev/3",
+            "score": 0.03571429
+          },
+          "embedding": {
+            "id": "validation/13",
+            "score": 0.70213568
+          }
+        },
+        {
+          "id": "test/160",
+          "lexical": {
+            "id": "dev/0",
+            "score": 0.11111111
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 0.76352027
+          }
+        },
+        {
+          "id": "test/161",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/11",
+            "score": 0.65489478
+          }
+        },
+        {
+          "id": "test/162",
+          "lexical": {
+            "id": "validation/4",
+            "score": 0.01666667
+          },
+          "embedding": {
+            "id": "validation/7",
+            "score": 0.74563551
+          }
+        },
+        {
+          "id": "test/163",
+          "lexical": {
+            "id": "dev/0",
+            "score": 0.02439024
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 0.67277882
+          }
+        },
+        {
+          "id": "test/164",
+          "lexical": {
+            "id": "validation/6",
+            "score": 0.06666667
+          },
+          "embedding": {
+            "id": "validation/6",
+            "score": 0.8066728
+          }
+        },
+        {
+          "id": "test/165",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/14",
+            "score": 0.66435173
+          }
+        },
+        {
+          "id": "test/166",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/11",
+            "score": 0.63737328
+          }
+        },
+        {
+          "id": "test/167",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/5",
+            "score": 0.71650779
+          }
+        },
+        {
+          "id": "test/168",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/7",
+            "score": 0.76092217
+          }
+        },
+        {
+          "id": "test/169",
+          "lexical": {
+            "id": "dev/0",
+            "score": 0.01754386
+          },
+          "embedding": {
+            "id": "validation/12",
+            "score": 0.65418596
+          }
+        },
+        {
+          "id": "test/170",
+          "lexical": {
+            "id": "validation/20",
+            "score": 0.04166667
+          },
+          "embedding": {
+            "id": "validation/0",
+            "score": 0.76539623
+          }
+        },
+        {
+          "id": "test/171",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 0.7169472
+          }
+        },
+        {
+          "id": "test/172",
+          "lexical": {
+            "id": "validation/4",
+            "score": 0.02325581
+          },
+          "embedding": {
+            "id": "validation/0",
+            "score": 0.68493454
+          }
+        },
+        {
+          "id": "test/173",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/12",
+            "score": 0.63768548
+          }
+        },
+        {
+          "id": "test/174",
+          "lexical": {
+            "id": "validation/15",
+            "score": 0.28571429
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 0.87222893
+          }
+        },
+        {
+          "id": "test/175",
+          "lexical": {
+            "id": "dev/3",
+            "score": 0.02702703
+          },
+          "embedding": {
+            "id": "validation/20",
+            "score": 0.63006149
+          }
+        },
+        {
+          "id": "test/176",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/7",
+            "score": 0.5903261
+          }
+        },
+        {
+          "id": "test/177",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/12",
+            "score": 0.65536474
+          }
+        },
+        {
+          "id": "test/178",
+          "lexical": {
+            "id": "dev/0",
+            "score": 0.01694915
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 0.72261515
+          }
+        },
+        {
+          "id": "test/179",
+          "lexical": {
+            "id": "validation/16",
+            "score": 0.04347826
+          },
+          "embedding": {
+            "id": "validation/0",
+            "score": 0.7355593
+          }
+        },
+        {
+          "id": "test/180",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/10",
+            "score": 0.58196454
+          }
+        },
+        {
+          "id": "test/181",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/12",
+            "score": 0.78877812
+          }
+        },
+        {
+          "id": "test/182",
+          "lexical": {
+            "id": "dev/3",
+            "score": 0.02857143
+          },
+          "embedding": {
+            "id": "validation/13",
+            "score": 0.80827464
+          }
+        },
+        {
+          "id": "test/183",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/11",
+            "score": 0.6003043
+          }
+        },
+        {
+          "id": "test/184",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "dev/4",
+            "score": 0.6718601
+          }
+        },
+        {
+          "id": "test/185",
+          "lexical": {
+            "id": "dev/0",
+            "score": 0.02173913
+          },
+          "embedding": {
+            "id": "validation/8",
+            "score": 0.73495636
+          }
+        },
+        {
+          "id": "test/186",
+          "lexical": {
+            "id": "validation/4",
+            "score": 0.02941176
+          },
+          "embedding": {
+            "id": "validation/7",
+            "score": 0.70523349
+          }
+        },
+        {
+          "id": "test/187",
+          "lexical": {
+            "id": "dev/0",
+            "score": 0.09090909
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 0.83765457
+          }
+        },
+        {
+          "id": "test/188",
+          "lexical": {
+            "id": "validation/4",
+            "score": 0.01315789
+          },
+          "embedding": {
+            "id": "validation/0",
+            "score": 0.69995673
+          }
+        },
+        {
+          "id": "test/189",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "dev/2",
+            "score": 0.73516617
+          }
+        },
+        {
+          "id": "test/190",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/12",
+            "score": 0.69381813
+          }
+        },
+        {
+          "id": "test/191",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 0.70084783
+          }
+        },
+        {
+          "id": "test/192",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/11",
+            "score": 0.73190625
+          }
+        },
+        {
+          "id": "test/193",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/0",
+            "score": 0.73988328
+          }
+        },
+        {
+          "id": "test/194",
+          "lexical": {
+            "id": "dev/0",
+            "score": 0.08333333
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 0.86001382
+          }
+        },
+        {
+          "id": "test/195",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/12",
+            "score": 0.86058834
+          }
+        },
+        {
+          "id": "test/196",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "dev/3",
+            "score": 0.65986927
+          }
+        },
+        {
+          "id": "test/197",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/12",
+            "score": 0.61826877
+          }
+        },
+        {
+          "id": "test/198",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/1",
+            "score": 0.72622654
+          }
+        },
+        {
+          "id": "test/199",
+          "lexical": {
+            "id": "validation/14",
+            "score": 0.15789474
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 0.79171088
+          }
+        },
+        {
+          "id": "test/200",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/7",
+            "score": 0.71917069
+          }
+        },
+        {
+          "id": "test/201",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 0.78115929
+          }
+        },
+        {
+          "id": "test/202",
+          "lexical": {
+            "id": "validation/1",
+            "score": 0.01351351
+          },
+          "embedding": {
+            "id": "validation/20",
+            "score": 0.77179644
+          }
+        },
+        {
+          "id": "test/203",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "dev/0",
+            "score": 0.59743802
+          }
+        },
+        {
+          "id": "test/204",
+          "lexical": {
+            "id": "dev/1",
+            "score": 0.5
+          },
+          "embedding": {
+            "id": "dev/1",
+            "score": 0.99814536
+          }
+        },
+        {
+          "id": "test/205",
+          "lexical": {
+            "id": "dev/0",
+            "score": 0.04347826
+          },
+          "embedding": {
+            "id": "dev/4",
+            "score": 0.6998115
+          }
+        },
+        {
+          "id": "test/206",
+          "lexical": {
+            "id": "validation/15",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/207",
+          "lexical": {
+            "id": "validation/12",
+            "score": 0.02884615
+          },
+          "embedding": {
+            "id": "validation/12",
+            "score": 0.77036241
+          }
+        },
+        {
+          "id": "test/208",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/12",
+            "score": 0.78362977
+          }
+        },
+        {
+          "id": "test/209",
+          "lexical": {
+            "id": "validation/18",
+            "score": 0.03333333
+          },
+          "embedding": {
+            "id": "validation/18",
+            "score": 0.93845384
+          }
+        },
+        {
+          "id": "test/210",
+          "lexical": {
+            "id": "dev/0",
+            "score": 0.125
+          },
+          "embedding": {
+            "id": "validation/11",
+            "score": 0.94411894
+          }
+        },
+        {
+          "id": "test/211",
+          "lexical": {
+            "id": "dev/0",
+            "score": 0.09090909
+          },
+          "embedding": {
+            "id": "validation/15",
+            "score": 0.87389211
+          }
+        },
+        {
+          "id": "test/212",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "validation/7",
+            "score": 0.60033723
+          }
+        },
+        {
+          "id": "test/213",
+          "lexical": {
+            "id": "dev/0",
+            "score": 0.03030303
+          },
+          "embedding": {
+            "id": "validation/10",
+            "score": 0.69394328
+          }
+        },
+        {
+          "id": "test/214",
+          "lexical": {
+            "id": "dev/0",
+            "score": 0.01818182
+          },
+          "embedding": {
+            "id": "validation/8",
+            "score": 0.6800211
+          }
+        },
+        {
+          "id": "test/215",
+          "lexical": {
+            "id": "validation/17",
+            "score": 0.01754386
+          },
+          "embedding": {
+            "id": "validation/18",
+            "score": 0.75754751
+          }
+        }
+      ]
+    },
+    "republication": {
+      "documents": 100,
+      "lexical_flags": 101,
+      "exact_stem_and_choices_ids": [
+        "test/1",
+        "test/2",
+        "test/5",
+        "test/6",
+        "test/7",
+        "test/10",
+        "test/13",
+        "test/14",
+        "test/16",
+        "test/22",
+        "test/24",
+        "test/26",
+        "test/27",
+        "test/31",
+        "test/33",
+        "test/34",
+        "test/38",
+        "test/40",
+        "test/42",
+        "test/48",
+        "test/49",
+        "test/52",
+        "test/58",
+        "test/59",
+        "test/61",
+        "test/62",
+        "test/64",
+        "test/65",
+        "test/67",
+        "test/71",
+        "test/74",
+        "test/76",
+        "test/77",
+        "test/80",
+        "test/83",
+        "test/84",
+        "test/85",
+        "test/87",
+        "test/89",
+        "test/91",
+        "test/92",
+        "test/93",
+        "test/94",
+        "test/100",
+        "test/101",
+        "test/102",
+        "test/103",
+        "test/104",
+        "test/107",
+        "test/109",
+        "test/110",
+        "test/111",
+        "test/112",
+        "test/113",
+        "test/118",
+        "test/119",
+        "test/120",
+        "test/121",
+        "test/124",
+        "test/126",
+        "test/128",
+        "test/133",
+        "test/134",
+        "test/136",
+        "test/137",
+        "test/140",
+        "test/141",
+        "test/144",
+        "test/147",
+        "test/148",
+        "test/149",
+        "test/150",
+        "test/154",
+        "test/157",
+        "test/158",
+        "test/161",
+        "test/163",
+        "test/165",
+        "test/167",
+        "test/168",
+        "test/170",
+        "test/176",
+        "test/177",
+        "test/179",
+        "test/180",
+        "test/181",
+        "test/183",
+        "test/184",
+        "test/185",
+        "test/197",
+        "test/199",
+        "test/201",
+        "test/202",
+        "test/203",
+        "test/205",
+        "test/206",
+        "test/208",
+        "test/209",
+        "test/211",
+        "test/214"
+      ],
+      "embedding_flags": 104,
+      "either_flags": 104,
+      "by_item": [
+        {
+          "id": "test/0",
+          "lexical": {
+            "id": "redux/22",
+            "score": 0.0754717
+          },
+          "embedding": {
+            "id": "redux/41",
+            "score": 0.73377527
+          }
+        },
+        {
+          "id": "test/1",
+          "lexical": {
+            "id": "redux/92",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/92",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/2",
+          "lexical": {
+            "id": "redux/74",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/74",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/3",
+          "lexical": {
+            "id": "redux/35",
+            "score": 0.57142857
+          },
+          "embedding": {
+            "id": "redux/64",
+            "score": 0.96330911
+          }
+        },
+        {
+          "id": "test/4",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/1",
+            "score": 0.85200857
+          }
+        },
+        {
+          "id": "test/5",
+          "lexical": {
+            "id": "redux/87",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/87",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/6",
+          "lexical": {
+            "id": "redux/59",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/59",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/7",
+          "lexical": {
+            "id": "redux/23",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/23",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/8",
+          "lexical": {
+            "id": "redux/72",
+            "score": 0.5
+          },
+          "embedding": {
+            "id": "redux/64",
+            "score": 0.84333303
+          }
+        },
+        {
+          "id": "test/9",
+          "lexical": {
+            "id": "redux/4",
+            "score": 0.10526316
+          },
+          "embedding": {
+            "id": "redux/35",
+            "score": 0.84737649
+          }
+        },
+        {
+          "id": "test/10",
+          "lexical": {
+            "id": "redux/45",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/45",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/11",
+          "lexical": {
+            "id": "redux/59",
+            "score": 0.02631579
+          },
+          "embedding": {
+            "id": "redux/63",
+            "score": 0.81986349
+          }
+        },
+        {
+          "id": "test/12",
+          "lexical": {
+            "id": "redux/58",
+            "score": 0.02941176
+          },
+          "embedding": {
+            "id": "redux/96",
+            "score": 0.8912721
+          }
+        },
+        {
+          "id": "test/13",
+          "lexical": {
+            "id": "redux/66",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/66",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/14",
+          "lexical": {
+            "id": "redux/37",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/37",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/15",
+          "lexical": {
+            "id": "redux/39",
+            "score": 0.08823529
+          },
+          "embedding": {
+            "id": "redux/39",
+            "score": 0.85595045
+          }
+        },
+        {
+          "id": "test/16",
+          "lexical": {
+            "id": "redux/3",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/3",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/17",
+          "lexical": {
+            "id": "redux/0",
+            "score": 0.06666667
+          },
+          "embedding": {
+            "id": "redux/9",
+            "score": 0.84677486
+          }
+        },
+        {
+          "id": "test/18",
+          "lexical": {
+            "id": "redux/18",
+            "score": 0.01449275
+          },
+          "embedding": {
+            "id": "redux/61",
+            "score": 0.82598713
+          }
+        },
+        {
+          "id": "test/19",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/52",
+            "score": 0.92333448
+          }
+        },
+        {
+          "id": "test/20",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/47",
+            "score": 0.70279994
+          }
+        },
+        {
+          "id": "test/21",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/45",
+            "score": 0.73874759
+          }
+        },
+        {
+          "id": "test/22",
+          "lexical": {
+            "id": "redux/34",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/34",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/23",
+          "lexical": {
+            "id": "redux/6",
+            "score": 0.01960784
+          },
+          "embedding": {
+            "id": "redux/88",
+            "score": 0.80815225
+          }
+        },
+        {
+          "id": "test/24",
+          "lexical": {
+            "id": "redux/68",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/68",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/25",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/68",
+            "score": 0.85317531
+          }
+        },
+        {
+          "id": "test/26",
+          "lexical": {
+            "id": "redux/26",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/26",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/27",
+          "lexical": {
+            "id": "redux/62",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/62",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/28",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/68",
+            "score": 0.78599451
+          }
+        },
+        {
+          "id": "test/29",
+          "lexical": {
+            "id": "redux/5",
+            "score": 0.05263158
+          },
+          "embedding": {
+            "id": "redux/83",
+            "score": 0.81209461
+          }
+        },
+        {
+          "id": "test/30",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/34",
+            "score": 0.77412628
+          }
+        },
+        {
+          "id": "test/31",
+          "lexical": {
+            "id": "redux/89",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/89",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/32",
+          "lexical": {
+            "id": "redux/0",
+            "score": 0.05263158
+          },
+          "embedding": {
+            "id": "redux/50",
+            "score": 0.77308831
+          }
+        },
+        {
+          "id": "test/33",
+          "lexical": {
+            "id": "redux/33",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/33",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/34",
+          "lexical": {
+            "id": "redux/50",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/50",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/35",
+          "lexical": {
+            "id": "redux/53",
+            "score": 0.01666667
+          },
+          "embedding": {
+            "id": "redux/14",
+            "score": 0.79274421
+          }
+        },
+        {
+          "id": "test/36",
+          "lexical": {
+            "id": "redux/5",
+            "score": 0.03076923
+          },
+          "embedding": {
+            "id": "redux/85",
+            "score": 0.81267765
+          }
+        },
+        {
+          "id": "test/37",
+          "lexical": {
+            "id": "redux/4",
+            "score": 0.03157895
+          },
+          "embedding": {
+            "id": "redux/87",
+            "score": 0.79574107
+          }
+        },
+        {
+          "id": "test/38",
+          "lexical": {
+            "id": "redux/81",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/81",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/39",
+          "lexical": {
+            "id": "redux/92",
+            "score": 0.2
+          },
+          "embedding": {
+            "id": "redux/75",
+            "score": 0.80901625
+          }
+        },
+        {
+          "id": "test/40",
+          "lexical": {
+            "id": "redux/67",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/67",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/41",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/18",
+            "score": 0.77471626
+          }
+        },
+        {
+          "id": "test/42",
+          "lexical": {
+            "id": "redux/5",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/5",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/43",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/76",
+            "score": 0.74166929
+          }
+        },
+        {
+          "id": "test/44",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/8",
+            "score": 0.85479038
+          }
+        },
+        {
+          "id": "test/45",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/87",
+            "score": 0.86421245
+          }
+        },
+        {
+          "id": "test/46",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/57",
+            "score": 0.8852721
+          }
+        },
+        {
+          "id": "test/47",
+          "lexical": {
+            "id": "redux/0",
+            "score": 0.01694915
+          },
+          "embedding": {
+            "id": "redux/79",
+            "score": 0.67544567
+          }
+        },
+        {
+          "id": "test/48",
+          "lexical": {
+            "id": "redux/31",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/31",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/49",
+          "lexical": {
+            "id": "redux/43",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/43",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/50",
+          "lexical": {
+            "id": "redux/16",
+            "score": 0.0625
+          },
+          "embedding": {
+            "id": "redux/16",
+            "score": 0.8429977
+          }
+        },
+        {
+          "id": "test/51",
+          "lexical": {
+            "id": "redux/62",
+            "score": 0.2
+          },
+          "embedding": {
+            "id": "redux/40",
+            "score": 0.95278392
+          }
+        },
+        {
+          "id": "test/52",
+          "lexical": {
+            "id": "redux/28",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/28",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/53",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/48",
+            "score": 0.7023208
+          }
+        },
+        {
+          "id": "test/54",
+          "lexical": {
+            "id": "redux/79",
+            "score": 0.125
+          },
+          "embedding": {
+            "id": "redux/54",
+            "score": 0.76246659
+          }
+        },
+        {
+          "id": "test/55",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/87",
+            "score": 0.83940426
+          }
+        },
+        {
+          "id": "test/56",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/54",
+            "score": 0.7145425
+          }
+        },
+        {
+          "id": "test/57",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/68",
+            "score": 0.75450933
+          }
+        },
+        {
+          "id": "test/58",
+          "lexical": {
+            "id": "redux/94",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/94",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/59",
+          "lexical": {
+            "id": "redux/54",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/54",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/60",
+          "lexical": {
+            "id": "redux/14",
+            "score": 0.01298701
+          },
+          "embedding": {
+            "id": "redux/60",
+            "score": 0.77308903
+          }
+        },
+        {
+          "id": "test/61",
+          "lexical": {
+            "id": "redux/90",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/90",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/62",
+          "lexical": {
+            "id": "redux/84",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/84",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/63",
+          "lexical": {
+            "id": "redux/9",
+            "score": 0.06382979
+          },
+          "embedding": {
+            "id": "redux/84",
+            "score": 0.77417448
+          }
+        },
+        {
+          "id": "test/64",
+          "lexical": {
+            "id": "redux/36",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/36",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/65",
+          "lexical": {
+            "id": "redux/16",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/16",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/66",
+          "lexical": {
+            "id": "redux/39",
+            "score": 0.02272727
+          },
+          "embedding": {
+            "id": "redux/44",
+            "score": 0.87407657
+          }
+        },
+        {
+          "id": "test/67",
+          "lexical": {
+            "id": "redux/96",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/96",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/68",
+          "lexical": {
+            "id": "redux/24",
+            "score": 0.05172414
+          },
+          "embedding": {
+            "id": "redux/47",
+            "score": 0.68259388
+          }
+        },
+        {
+          "id": "test/69",
+          "lexical": {
+            "id": "redux/32",
+            "score": 0.02380952
+          },
+          "embedding": {
+            "id": "redux/87",
+            "score": 0.7876135
+          }
+        },
+        {
+          "id": "test/70",
+          "lexical": {
+            "id": "redux/72",
+            "score": 0.25
+          },
+          "embedding": {
+            "id": "redux/0",
+            "score": 0.91660578
+          }
+        },
+        {
+          "id": "test/71",
+          "lexical": {
+            "id": "redux/4",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/4",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/72",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/12",
+            "score": 0.72162688
+          }
+        },
+        {
+          "id": "test/73",
+          "lexical": {
+            "id": "redux/0",
+            "score": 0.16666667
+          },
+          "embedding": {
+            "id": "redux/37",
+            "score": 0.90839749
+          }
+        },
+        {
+          "id": "test/74",
+          "lexical": {
+            "id": "redux/53",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/53",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/75",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/89",
+            "score": 0.77045186
+          }
+        },
+        {
+          "id": "test/76",
+          "lexical": {
+            "id": "redux/25",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/25",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/77",
+          "lexical": {
+            "id": "redux/6",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/6",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/78",
+          "lexical": {
+            "id": "redux/5",
+            "score": 0.33333333
+          },
+          "embedding": {
+            "id": "redux/83",
+            "score": 0.86209586
+          }
+        },
+        {
+          "id": "test/79",
+          "lexical": {
+            "id": "redux/72",
+            "score": 0.21428571
+          },
+          "embedding": {
+            "id": "redux/3",
+            "score": 0.79422912
+          }
+        },
+        {
+          "id": "test/80",
+          "lexical": {
+            "id": "redux/91",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/91",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/81",
+          "lexical": {
+            "id": "redux/6",
+            "score": 0.02222222
+          },
+          "embedding": {
+            "id": "redux/2",
+            "score": 0.87068692
+          }
+        },
+        {
+          "id": "test/82",
+          "lexical": {
+            "id": "redux/35",
+            "score": 0.21052632
+          },
+          "embedding": {
+            "id": "redux/64",
+            "score": 0.90123854
+          }
+        },
+        {
+          "id": "test/83",
+          "lexical": {
+            "id": "redux/70",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/70",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/84",
+          "lexical": {
+            "id": "redux/99",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/99",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/85",
+          "lexical": {
+            "id": "redux/71",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/71",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/86",
+          "lexical": {
+            "id": "redux/96",
+            "score": 0.01449275
+          },
+          "embedding": {
+            "id": "redux/68",
+            "score": 0.73910064
+          }
+        },
+        {
+          "id": "test/87",
+          "lexical": {
+            "id": "redux/14",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/14",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/88",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/28",
+            "score": 0.81020948
+          }
+        },
+        {
+          "id": "test/89",
+          "lexical": {
+            "id": "redux/19",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/19",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/90",
+          "lexical": {
+            "id": "redux/84",
+            "score": 0.02777778
+          },
+          "embedding": {
+            "id": "redux/87",
+            "score": 0.82529992
+          }
+        },
+        {
+          "id": "test/91",
+          "lexical": {
+            "id": "redux/35",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/35",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/92",
+          "lexical": {
+            "id": "redux/0",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/0",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/93",
+          "lexical": {
+            "id": "redux/11",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/11",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/94",
+          "lexical": {
+            "id": "redux/17",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/17",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/95",
+          "lexical": {
+            "id": "redux/31",
+            "score": 0.02752294
+          },
+          "embedding": {
+            "id": "redux/31",
+            "score": 0.7435593
+          }
+        },
+        {
+          "id": "test/96",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/99",
+            "score": 0.85472319
+          }
+        },
+        {
+          "id": "test/97",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/31",
+            "score": 0.87276679
+          }
+        },
+        {
+          "id": "test/98",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/99",
+            "score": 0.83284267
+          }
+        },
+        {
+          "id": "test/99",
+          "lexical": {
+            "id": "redux/91",
+            "score": 0.02272727
+          },
+          "embedding": {
+            "id": "redux/31",
+            "score": 0.88569316
+          }
+        },
+        {
+          "id": "test/100",
+          "lexical": {
+            "id": "redux/56",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/56",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/101",
+          "lexical": {
+            "id": "redux/51",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/51",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/102",
+          "lexical": {
+            "id": "redux/60",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/60",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/103",
+          "lexical": {
+            "id": "redux/88",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/88",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/104",
+          "lexical": {
+            "id": "redux/80",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/80",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/105",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/80",
+            "score": 0.82507147
+          }
+        },
+        {
+          "id": "test/106",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/90",
+            "score": 0.85026181
+          }
+        },
+        {
+          "id": "test/107",
+          "lexical": {
+            "id": "redux/61",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/61",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/108",
+          "lexical": {
+            "id": "redux/96",
+            "score": 0.09090909
+          },
+          "embedding": {
+            "id": "redux/23",
+            "score": 0.80392374
+          }
+        },
+        {
+          "id": "test/109",
+          "lexical": {
+            "id": "redux/77",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/77",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/110",
+          "lexical": {
+            "id": "redux/73",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/73",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/111",
+          "lexical": {
+            "id": "redux/86",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/86",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/112",
+          "lexical": {
+            "id": "redux/95",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/95",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/113",
+          "lexical": {
+            "id": "redux/8",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/8",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/114",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/82",
+            "score": 0.93248614
+          }
+        },
+        {
+          "id": "test/115",
+          "lexical": {
+            "id": "redux/6",
+            "score": 0.01923077
+          },
+          "embedding": {
+            "id": "redux/58",
+            "score": 0.76791544
+          }
+        },
+        {
+          "id": "test/116",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/31",
+            "score": 0.79396919
+          }
+        },
+        {
+          "id": "test/117",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/79",
+            "score": 0.7795797
+          }
+        },
+        {
+          "id": "test/118",
+          "lexical": {
+            "id": "redux/52",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/52",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/119",
+          "lexical": {
+            "id": "redux/29",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/29",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/120",
+          "lexical": {
+            "id": "redux/13",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/13",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/121",
+          "lexical": {
+            "id": "redux/32",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/32",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/122",
+          "lexical": {
+            "id": "redux/67",
+            "score": 0.28571429
+          },
+          "embedding": {
+            "id": "redux/97",
+            "score": 0.95243892
+          }
+        },
+        {
+          "id": "test/123",
+          "lexical": {
+            "id": "redux/63",
+            "score": 0.01086957
+          },
+          "embedding": {
+            "id": "redux/99",
+            "score": 0.74828353
+          }
+        },
+        {
+          "id": "test/124",
+          "lexical": {
+            "id": "redux/58",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/58",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/125",
+          "lexical": {
+            "id": "redux/13",
+            "score": 0.05555556
+          },
+          "embedding": {
+            "id": "redux/2",
+            "score": 0.88517768
+          }
+        },
+        {
+          "id": "test/126",
+          "lexical": {
+            "id": "redux/18",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/18",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/127",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/31",
+            "score": 0.77390066
+          }
+        },
+        {
+          "id": "test/128",
+          "lexical": {
+            "id": "redux/98",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/98",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/129",
+          "lexical": {
+            "id": "redux/61",
+            "score": 0.06779661
+          },
+          "embedding": {
+            "id": "redux/96",
+            "score": 0.89026919
+          }
+        },
+        {
+          "id": "test/130",
+          "lexical": {
+            "id": "redux/3",
+            "score": 0.01492537
+          },
+          "embedding": {
+            "id": "redux/87",
+            "score": 0.80005453
+          }
+        },
+        {
+          "id": "test/131",
+          "lexical": {
+            "id": "redux/22",
+            "score": 0.05357143
+          },
+          "embedding": {
+            "id": "redux/41",
+            "score": 0.69931288
+          }
+        },
+        {
+          "id": "test/132",
+          "lexical": {
+            "id": "redux/22",
+            "score": 0.03174603
+          },
+          "embedding": {
+            "id": "redux/61",
+            "score": 0.84331457
+          }
+        },
+        {
+          "id": "test/133",
+          "lexical": {
+            "id": "redux/72",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/72",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/134",
+          "lexical": {
+            "id": "redux/79",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/79",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/135",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/44",
+            "score": 0.88174111
+          }
+        },
+        {
+          "id": "test/136",
+          "lexical": {
+            "id": "redux/63",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/63",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/137",
+          "lexical": {
+            "id": "redux/21",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/21",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/138",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/99",
+            "score": 0.82312659
+          }
+        },
+        {
+          "id": "test/139",
+          "lexical": {
+            "id": "redux/35",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/64",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/140",
+          "lexical": {
+            "id": "redux/27",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/27",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/141",
+          "lexical": {
+            "id": "redux/46",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/46",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/142",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/19",
+            "score": 0.82067049
+          }
+        },
+        {
+          "id": "test/143",
+          "lexical": {
+            "id": "redux/93",
+            "score": 0.04615385
+          },
+          "embedding": {
+            "id": "redux/10",
+            "score": 0.76899428
+          }
+        },
+        {
+          "id": "test/144",
+          "lexical": {
+            "id": "redux/49",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/49",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/145",
+          "lexical": {
+            "id": "redux/59",
+            "score": 0.01149425
+          },
+          "embedding": {
+            "id": "redux/21",
+            "score": 0.76408682
+          }
+        },
+        {
+          "id": "test/146",
+          "lexical": {
+            "id": "redux/16",
+            "score": 0.02272727
+          },
+          "embedding": {
+            "id": "redux/16",
+            "score": 0.79757709
+          }
+        },
+        {
+          "id": "test/147",
+          "lexical": {
+            "id": "redux/97",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/97",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/148",
+          "lexical": {
+            "id": "redux/30",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/30",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/149",
+          "lexical": {
+            "id": "redux/57",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/57",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/150",
+          "lexical": {
+            "id": "redux/22",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/22",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/151",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/90",
+            "score": 0.80633842
+          }
+        },
+        {
+          "id": "test/152",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/31",
+            "score": 0.94758114
+          }
+        },
+        {
+          "id": "test/153",
+          "lexical": {
+            "id": "redux/96",
+            "score": 0.06976744
+          },
+          "embedding": {
+            "id": "redux/23",
+            "score": 0.89282736
+          }
+        },
+        {
+          "id": "test/154",
+          "lexical": {
+            "id": "redux/69",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/69",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/155",
+          "lexical": {
+            "id": "redux/60",
+            "score": 0.06153846
+          },
+          "embedding": {
+            "id": "redux/60",
+            "score": 0.83437083
+          }
+        },
+        {
+          "id": "test/156",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/57",
+            "score": 0.92249362
+          }
+        },
+        {
+          "id": "test/157",
+          "lexical": {
+            "id": "redux/40",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/40",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/158",
+          "lexical": {
+            "id": "redux/2",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/2",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/159",
+          "lexical": {
+            "id": "redux/92",
+            "score": 0.08928571
+          },
+          "embedding": {
+            "id": "redux/2",
+            "score": 0.82644861
+          }
+        },
+        {
+          "id": "test/160",
+          "lexical": {
+            "id": "redux/0",
+            "score": 0.11111111
+          },
+          "embedding": {
+            "id": "redux/0",
+            "score": 0.8724597
+          }
+        },
+        {
+          "id": "test/161",
+          "lexical": {
+            "id": "redux/48",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/48",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/162",
+          "lexical": {
+            "id": "redux/56",
+            "score": 0.03333333
+          },
+          "embedding": {
+            "id": "redux/56",
+            "score": 0.80461924
+          }
+        },
+        {
+          "id": "test/163",
+          "lexical": {
+            "id": "redux/24",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/24",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/164",
+          "lexical": {
+            "id": "redux/5",
+            "score": 0.46666667
+          },
+          "embedding": {
+            "id": "redux/5",
+            "score": 0.89274588
+          }
+        },
+        {
+          "id": "test/165",
+          "lexical": {
+            "id": "redux/44",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/44",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/166",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/31",
+            "score": 0.75119361
+          }
+        },
+        {
+          "id": "test/167",
+          "lexical": {
+            "id": "redux/1",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/1",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/168",
+          "lexical": {
+            "id": "redux/55",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/55",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/169",
+          "lexical": {
+            "id": "redux/68",
+            "score": 0.10526316
+          },
+          "embedding": {
+            "id": "redux/60",
+            "score": 0.76762923
+          }
+        },
+        {
+          "id": "test/170",
+          "lexical": {
+            "id": "redux/78",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/78",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/171",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/99",
+            "score": 0.79750101
+          }
+        },
+        {
+          "id": "test/172",
+          "lexical": {
+            "id": "redux/13",
+            "score": 0.04651163
+          },
+          "embedding": {
+            "id": "redux/2",
+            "score": 0.85397736
+          }
+        },
+        {
+          "id": "test/173",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/89",
+            "score": 0.75701387
+          }
+        },
+        {
+          "id": "test/174",
+          "lexical": {
+            "id": "redux/35",
+            "score": 0.28571429
+          },
+          "embedding": {
+            "id": "redux/64",
+            "score": 0.8846888
+          }
+        },
+        {
+          "id": "test/175",
+          "lexical": {
+            "id": "redux/60",
+            "score": 0.08108108
+          },
+          "embedding": {
+            "id": "redux/75",
+            "score": 0.81036611
+          }
+        },
+        {
+          "id": "test/176",
+          "lexical": {
+            "id": "redux/76",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/76",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/177",
+          "lexical": {
+            "id": "redux/85",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/85",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/178",
+          "lexical": {
+            "id": "redux/28",
+            "score": 0.03389831
+          },
+          "embedding": {
+            "id": "redux/99",
+            "score": 0.78112472
+          }
+        },
+        {
+          "id": "test/179",
+          "lexical": {
+            "id": "redux/20",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/20",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/180",
+          "lexical": {
+            "id": "redux/42",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/42",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/181",
+          "lexical": {
+            "id": "redux/10",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/10",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/182",
+          "lexical": {
+            "id": "redux/92",
+            "score": 0.11428571
+          },
+          "embedding": {
+            "id": "redux/2",
+            "score": 0.86211529
+          }
+        },
+        {
+          "id": "test/183",
+          "lexical": {
+            "id": "redux/15",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/15",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/184",
+          "lexical": {
+            "id": "redux/39",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/39",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/185",
+          "lexical": {
+            "id": "redux/65",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/65",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/186",
+          "lexical": {
+            "id": "redux/18",
+            "score": 0.02941176
+          },
+          "embedding": {
+            "id": "redux/31",
+            "score": 0.82150202
+          }
+        },
+        {
+          "id": "test/187",
+          "lexical": {
+            "id": "redux/0",
+            "score": 0.09090909
+          },
+          "embedding": {
+            "id": "redux/26",
+            "score": 0.84617306
+          }
+        },
+        {
+          "id": "test/188",
+          "lexical": {
+            "id": "redux/78",
+            "score": 0.02631579
+          },
+          "embedding": {
+            "id": "redux/49",
+            "score": 0.83099409
+          }
+        },
+        {
+          "id": "test/189",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/68",
+            "score": 0.83693793
+          }
+        },
+        {
+          "id": "test/190",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/24",
+            "score": 0.78888495
+          }
+        },
+        {
+          "id": "test/191",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/74",
+            "score": 0.87250731
+          }
+        },
+        {
+          "id": "test/192",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/77",
+            "score": 0.86188946
+          }
+        },
+        {
+          "id": "test/193",
+          "lexical": {
+            "id": "redux/9",
+            "score": 0.05405405
+          },
+          "embedding": {
+            "id": "redux/86",
+            "score": 0.80111136
+          }
+        },
+        {
+          "id": "test/194",
+          "lexical": {
+            "id": "redux/28",
+            "score": 0.16666667
+          },
+          "embedding": {
+            "id": "redux/97",
+            "score": 0.79746714
+          }
+        },
+        {
+          "id": "test/195",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/66",
+            "score": 0.80209954
+          }
+        },
+        {
+          "id": "test/196",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/78",
+            "score": 0.74491452
+          }
+        },
+        {
+          "id": "test/197",
+          "lexical": {
+            "id": "redux/12",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/12",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/198",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/40",
+            "score": 0.88330691
+          }
+        },
+        {
+          "id": "test/199",
+          "lexical": {
+            "id": "redux/9",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/9",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/200",
+          "lexical": {
+            "id": "redux/90",
+            "score": 0.03921569
+          },
+          "embedding": {
+            "id": "redux/30",
+            "score": 0.86194205
+          }
+        },
+        {
+          "id": "test/201",
+          "lexical": {
+            "id": "redux/82",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/82",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/202",
+          "lexical": {
+            "id": "redux/75",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/75",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/203",
+          "lexical": {
+            "id": "redux/47",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/47",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/204",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/24",
+            "score": 0.67936895
+          }
+        },
+        {
+          "id": "test/205",
+          "lexical": {
+            "id": "redux/7",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/7",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/206",
+          "lexical": {
+            "id": "redux/35",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/64",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/207",
+          "lexical": {
+            "id": "redux/0",
+            "score": 0.00961538
+          },
+          "embedding": {
+            "id": "redux/31",
+            "score": 0.72892766
+          }
+        },
+        {
+          "id": "test/208",
+          "lexical": {
+            "id": "redux/93",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/93",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/209",
+          "lexical": {
+            "id": "redux/38",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/38",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/210",
+          "lexical": {
+            "id": "redux/0",
+            "score": 0.125
+          },
+          "embedding": {
+            "id": "redux/4",
+            "score": 0.7777604
+          }
+        },
+        {
+          "id": "test/211",
+          "lexical": {
+            "id": "redux/83",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/83",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/212",
+          "lexical": {
+            "id": "redux/39",
+            "score": 0.01369863
+          },
+          "embedding": {
+            "id": "redux/43",
+            "score": 0.78867036
+          }
+        },
+        {
+          "id": "test/213",
+          "lexical": {
+            "id": "redux/41",
+            "score": 0.15151515
+          },
+          "embedding": {
+            "id": "redux/73",
+            "score": 0.79111628
+          }
+        },
+        {
+          "id": "test/214",
+          "lexical": {
+            "id": "redux/41",
+            "score": 1.0
+          },
+          "embedding": {
+            "id": "redux/41",
+            "score": 1.0
+          }
+        },
+        {
+          "id": "test/215",
+          "lexical": {
+            "id": null,
+            "score": 0.0
+          },
+          "embedding": {
+            "id": "redux/38",
+            "score": 0.73224241
+          }
+        }
+      ]
+    }
+  },
+  "labels": {
+    "reviewed": 100,
+    "unreviewed": 116,
+    "agree": 98,
+    "disputes": [
+      {
+        "id": "test/38",
+        "source": "redux/81",
+        "original": 0,
+        "proposed": 1
+      },
+      {
+        "id": "test/181",
+        "source": "redux/10",
+        "original": 3,
+        "proposed": 1
+      }
+    ]
+  },
+  "lexical_judge": {
+    "items": 216,
+    "repeats": 3,
+    "first_seed": 17,
+    "split_items": 0,
+    "disagreement": 0.0,
+    "original_key_accuracy_by_run": [
+      0.25,
+      0.25,
+      0.25
+    ],
+    "by_item": [
+      {
+        "id": "test/0",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/1",
+        "votes": [
+          3,
+          3,
+          3
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/2",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/3",
+        "votes": [
+          2,
+          2,
+          2
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/4",
+        "votes": [
+          2,
+          2,
+          2
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/5",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/6",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/7",
+        "votes": [
+          3,
+          3,
+          3
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/8",
+        "votes": [
+          3,
+          3,
+          3
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/9",
+        "votes": [
+          3,
+          3,
+          3
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/10",
+        "votes": [
+          2,
+          2,
+          2
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/11",
+        "votes": [
+          1,
+          1,
+          1
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/12",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/13",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/14",
+        "votes": [
+          3,
+          3,
+          3
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/15",
+        "votes": [
+          3,
+          3,
+          3
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/16",
+        "votes": [
+          1,
+          1,
+          1
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/17",
+        "votes": [
+          3,
+          3,
+          3
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/18",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/19",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/20",
+        "votes": [
+          1,
+          1,
+          1
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/21",
+        "votes": [
+          2,
+          2,
+          2
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/22",
+        "votes": [
+          1,
+          1,
+          1
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/23",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/24",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/25",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/26",
+        "votes": [
+          2,
+          2,
+          2
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/27",
+        "votes": [
+          1,
+          1,
+          1
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/28",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/29",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/30",
+        "votes": [
+          2,
+          2,
+          2
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/31",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/32",
+        "votes": [
+          3,
+          3,
+          3
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/33",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/34",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/35",
+        "votes": [
+          1,
+          1,
+          1
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/36",
+        "votes": [
+          1,
+          1,
+          1
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/37",
+        "votes": [
+          2,
+          2,
+          2
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/38",
+        "votes": [
+          1,
+          1,
+          1
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/39",
+        "votes": [
+          3,
+          3,
+          3
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/40",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/41",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/42",
+        "votes": [
+          2,
+          2,
+          2
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/43",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/44",
+        "votes": [
+          1,
+          1,
+          1
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/45",
+        "votes": [
+          2,
+          2,
+          2
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/46",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/47",
+        "votes": [
+          2,
+          2,
+          2
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/48",
+        "votes": [
+          3,
+          3,
+          3
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/49",
+        "votes": [
+          3,
+          3,
+          3
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/50",
+        "votes": [
+          3,
+          3,
+          3
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/51",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/52",
+        "votes": [
+          2,
+          2,
+          2
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/53",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/54",
+        "votes": [
+          3,
+          3,
+          3
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/55",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/56",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/57",
+        "votes": [
+          3,
+          3,
+          3
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/58",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/59",
+        "votes": [
+          2,
+          2,
+          2
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/60",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/61",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/62",
+        "votes": [
+          1,
+          1,
+          1
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/63",
+        "votes": [
+          3,
+          3,
+          3
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/64",
+        "votes": [
+          2,
+          2,
+          2
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/65",
+        "votes": [
+          3,
+          3,
+          3
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/66",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/67",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/68",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/69",
+        "votes": [
+          1,
+          1,
+          1
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/70",
+        "votes": [
+          3,
+          3,
+          3
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/71",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/72",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/73",
+        "votes": [
+          3,
+          3,
+          3
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/74",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/75",
+        "votes": [
+          2,
+          2,
+          2
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/76",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/77",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/78",
+        "votes": [
+          3,
+          3,
+          3
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/79",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/80",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/81",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/82",
+        "votes": [
+          2,
+          2,
+          2
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/83",
+        "votes": [
+          2,
+          2,
+          2
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/84",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/85",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/86",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/87",
+        "votes": [
+          1,
+          1,
+          1
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/88",
+        "votes": [
+          1,
+          1,
+          1
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/89",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/90",
+        "votes": [
+          3,
+          3,
+          3
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/91",
+        "votes": [
+          2,
+          2,
+          2
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/92",
+        "votes": [
+          3,
+          3,
+          3
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/93",
+        "votes": [
+          2,
+          2,
+          2
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/94",
+        "votes": [
+          3,
+          3,
+          3
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/95",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/96",
+        "votes": [
+          2,
+          2,
+          2
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/97",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/98",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/99",
+        "votes": [
+          1,
+          1,
+          1
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/100",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/101",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/102",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/103",
+        "votes": [
+          3,
+          3,
+          3
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/104",
+        "votes": [
+          3,
+          3,
+          3
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/105",
+        "votes": [
+          2,
+          2,
+          2
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/106",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/107",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/108",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/109",
+        "votes": [
+          3,
+          3,
+          3
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/110",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/111",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/112",
+        "votes": [
+          3,
+          3,
+          3
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/113",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/114",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/115",
+        "votes": [
+          3,
+          3,
+          3
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/116",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/117",
+        "votes": [
+          3,
+          3,
+          3
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/118",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/119",
+        "votes": [
+          2,
+          2,
+          2
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/120",
+        "votes": [
+          2,
+          2,
+          2
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/121",
+        "votes": [
+          3,
+          3,
+          3
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/122",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/123",
+        "votes": [
+          2,
+          2,
+          2
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/124",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/125",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/126",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/127",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/128",
+        "votes": [
+          1,
+          1,
+          1
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/129",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/130",
+        "votes": [
+          2,
+          2,
+          2
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/131",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/132",
+        "votes": [
+          1,
+          1,
+          1
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/133",
+        "votes": [
+          1,
+          1,
+          1
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/134",
+        "votes": [
+          3,
+          3,
+          3
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/135",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/136",
+        "votes": [
+          2,
+          2,
+          2
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/137",
+        "votes": [
+          3,
+          3,
+          3
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/138",
+        "votes": [
+          2,
+          2,
+          2
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/139",
+        "votes": [
+          3,
+          3,
+          3
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/140",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/141",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/142",
+        "votes": [
+          1,
+          1,
+          1
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/143",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/144",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/145",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/146",
+        "votes": [
+          2,
+          2,
+          2
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/147",
+        "votes": [
+          2,
+          2,
+          2
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/148",
+        "votes": [
+          3,
+          3,
+          3
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/149",
+        "votes": [
+          2,
+          2,
+          2
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/150",
+        "votes": [
+          2,
+          2,
+          2
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/151",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/152",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/153",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/154",
+        "votes": [
+          2,
+          2,
+          2
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/155",
+        "votes": [
+          1,
+          1,
+          1
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/156",
+        "votes": [
+          2,
+          2,
+          2
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/157",
+        "votes": [
+          1,
+          1,
+          1
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/158",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/159",
+        "votes": [
+          1,
+          1,
+          1
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/160",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/161",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/162",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/163",
+        "votes": [
+          3,
+          3,
+          3
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/164",
+        "votes": [
+          3,
+          3,
+          3
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/165",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/166",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/167",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/168",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/169",
+        "votes": [
+          1,
+          1,
+          1
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/170",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/171",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/172",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/173",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/174",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/175",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/176",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/177",
+        "votes": [
+          2,
+          2,
+          2
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/178",
+        "votes": [
+          3,
+          3,
+          3
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/179",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/180",
+        "votes": [
+          2,
+          2,
+          2
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/181",
+        "votes": [
+          2,
+          2,
+          2
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/182",
+        "votes": [
+          2,
+          2,
+          2
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/183",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/184",
+        "votes": [
+          1,
+          1,
+          1
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/185",
+        "votes": [
+          3,
+          3,
+          3
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/186",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/187",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/188",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/189",
+        "votes": [
+          2,
+          2,
+          2
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/190",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/191",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/192",
+        "votes": [
+          1,
+          1,
+          1
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/193",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/194",
+        "votes": [
+          3,
+          3,
+          3
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/195",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/196",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/197",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/198",
+        "votes": [
+          1,
+          1,
+          1
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/199",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/200",
+        "votes": [
+          2,
+          2,
+          2
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/201",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/202",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/203",
+        "votes": [
+          2,
+          2,
+          2
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/204",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/205",
+        "votes": [
+          3,
+          3,
+          3
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/206",
+        "votes": [
+          3,
+          3,
+          3
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/207",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/208",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/209",
+        "votes": [
+          1,
+          1,
+          1
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/210",
+        "votes": [
+          3,
+          3,
+          3
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/211",
+        "votes": [
+          1,
+          1,
+          1
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/212",
+        "votes": [
+          0,
+          0,
+          0
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/213",
+        "votes": [
+          2,
+          2,
+          2
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/214",
+        "votes": [
+          2,
+          2,
+          2
+        ],
+        "disagreement": 0.0
+      },
+      {
+        "id": "test/215",
+        "votes": [
+          2,
+          2,
+          2
+        ],
+        "disagreement": 0.0
+      }
+    ]
+  },
+  "board": {
+    "snapshot": "2026-10-16T17:52:10.000Z",
+    "k": 10,
+    "scores": {
+      "companyenrich": {
+        "pct": 91.875,
+        "judged": 48,
+        "total": 48
+      },
+      "seltz": {
+        "pct": 84.375,
+        "judged": 48,
+        "total": 48
+      },
+      "extruct": {
+        "pct": 75.0,
+        "judged": 48,
+        "total": 48
+      },
+      "ocean": {
+        "pct": 74.25531914893617,
+        "judged": 47,
+        "total": 48
+      },
+      "parallel": {
+        "pct": 69.14893617021276,
+        "judged": 47,
+        "total": 48
+      },
+      "exa": {
+        "pct": 80.83333333333334,
+        "judged": 48,
+        "total": 48
+      },
+      "discolike": {
+        "pct": 41.91489361702128,
+        "judged": 47,
+        "total": 48
+      },
+      "cufinder": {
+        "pct": 38.93617021276596,
+        "judged": 47,
+        "total": 48
+      },
+      "predictleads": {
+        "pct": 89.79166666666666,
+        "judged": 48,
+        "total": 48
+      },
+      "zoominfo-lookalike": {
+        "pct": 67.08333333333333,
+        "judged": 48,
+        "total": 48
+      }
+    },
+    "resamples": 20000,
+    "seed": 73,
+    "family_level": 0.95,
+    "contrasts": [
+      {
+        "a": "companyenrich",
+        "b": "predictleads",
+        "paired_seeds": 48,
+        "excluded": [],
+        "gap_pp": 2.0833333333333335,
+        "interval_level": 0.975,
+        "ci_pp": [
+          -8.333333333333334,
+          13.541666666666666
+        ],
+        "distinguishable": false,
+        "wins_ties_losses": [
+          8,
+          24,
+          16
+        ]
+      },
+      {
+        "a": "companyenrich",
+        "b": "exa",
+        "paired_seeds": 48,
+        "excluded": [],
+        "gap_pp": 11.041666666666666,
+        "interval_level": 0.975,
+        "ci_pp": [
+          2.5,
+          19.583333333333332
+        ],
+        "distinguishable": true,
+        "wins_ties_losses": [
+          25,
+          15,
+          8
+        ]
+      }
+    ]
+  },
+  "model_board": {
+    "a": "Meta-Llama-3-8B",
+    "b": "Meta-Llama-3-8B-Instruct",
+    "original": {
+      "paired_seeds": 216,
+      "excluded": [],
+      "gap_pp": 1.8518518518518519,
+      "interval_level": 0.95,
+      "ci_pp": [
+        -3.7037037037037037,
+        7.407407407407407
+      ],
+      "distinguishable": false,
+      "wins_ties_losses": [
+        20,
+        180,
+        16
+      ]
+    },
+    "review_sensitivity": {
+      "Meta-Llama-3-8B": {
+        "original_correct": 120,
+        "with_suggestions": 122
+      },
+      "Meta-Llama-3-8B-Instruct": {
+        "original_correct": 116,
+        "with_suggestions": 118
+      }
+    },
+    "consensus_queue": [
+      {
+        "id": "test/1",
+        "original": 2,
+        "alternative": 1,
+        "review": "supports_original"
+      },
+      {
+        "id": "test/11",
+        "original": 2,
+        "alternative": 1,
+        "review": "unreviewed"
+      },
+      {
+        "id": "test/13",
+        "original": 2,
+        "alternative": 0,
+        "review": "supports_original"
+      },
+      {
+        "id": "test/15",
+        "original": 3,
+        "alternative": 0,
+        "review": "unreviewed"
+      },
+      {
+        "id": "test/18",
+        "original": 3,
+        "alternative": 1,
+        "review": "unreviewed"
+      },
+      {
+        "id": "test/19",
+        "original": 3,
+        "alternative": 2,
+        "review": "unreviewed"
+      },
+      {
+        "id": "test/22",
+        "original": 2,
+        "alternative": 0,
+        "review": "supports_original"
+      },
+      {
+        "id": "test/27",
+        "original": 0,
+        "alternative": 2,
+        "review": "supports_original"
+      },
+      {
+        "id": "test/34",
+        "original": 0,
+        "alternative": 2,
+        "review": "supports_original"
+      },
+      {
+        "id": "test/38",
+        "original": 0,
+        "alternative": 1,
+        "review": "supports_alternative"
+      },
+      {
+        "id": "test/41",
+        "original": 3,
+        "alternative": 2,
+        "review": "unreviewed"
+      },
+      {
+        "id": "test/45",
+        "original": 1,
+        "alternative": 0,
+        "review": "unreviewed"
+      },
+      {
+        "id": "test/47",
+        "original": 2,
+        "alternative": 0,
+        "review": "unreviewed"
+      },
+      {
+        "id": "test/50",
+        "original": 3,
+        "alternative": 2,
+        "review": "unreviewed"
+      },
+      {
+        "id": "test/55",
+        "original": 3,
+        "alternative": 1,
+        "review": "unreviewed"
+      },
+      {
+        "id": "test/57",
+        "original": 3,
+        "alternative": 2,
+        "review": "unreviewed"
+      },
+      {
+        "id": "test/59",
+        "original": 3,
+        "alternative": 2,
+        "review": "supports_original"
+      },
+      {
+        "id": "test/62",
+        "original": 3,
+        "alternative": 2,
+        "review": "supports_original"
+      },
+      {
+        "id": "test/65",
+        "original": 3,
+        "alternative": 0,
+        "review": "supports_original"
+      },
+      {
+        "id": "test/69",
+        "original": 1,
+        "alternative": 3,
+        "review": "unreviewed"
+      },
+      {
+        "id": "test/71",
+        "original": 3,
+        "alternative": 1,
+        "review": "supports_original"
+      },
+      {
+        "id": "test/82",
+        "original": 2,
+        "alternative": 1,
+        "review": "unreviewed"
+      },
+      {
+        "id": "test/87",
+        "original": 1,
+        "alternative": 3,
+        "review": "supports_original"
+      },
+      {
+        "id": "test/89",
+        "original": 2,
+        "alternative": 1,
+        "review": "supports_original"
+      },
+      {
+        "id": "test/90",
+        "original": 3,
+        "alternative": 2,
+        "review": "unreviewed"
+      },
+      {
+        "id": "test/91",
+        "original": 3,
+        "alternative": 1,
+        "review": "supports_original"
+      },
+      {
+        "id": "test/95",
+        "original": 3,
+        "alternative": 1,
+        "review": "unreviewed"
+      },
+      {
+        "id": "test/98",
+        "original": 2,
+        "alternative": 3,
+        "review": "unreviewed"
+      },
+      {
+        "id": "test/100",
+        "original": 3,
+        "alternative": 2,
+        "review": "supports_original"
+      },
+      {
+        "id": "test/101",
+        "original": 0,
+        "alternative": 1,
+        "review": "supports_original"
+      },
+      {
+        "id": "test/108",
+        "original": 1,
+        "alternative": 3,
+        "review": "unreviewed"
+      },
+      {
+        "id": "test/109",
+        "original": 3,
+        "alternative": 1,
+        "review": "supports_original"
+      },
+      {
+        "id": "test/111",
+        "original": 0,
+        "alternative": 2,
+        "review": "supports_original"
+      },
+      {
+        "id": "test/125",
+        "original": 3,
+        "alternative": 0,
+        "review": "unreviewed"
+      },
+      {
+        "id": "test/126",
+        "original": 3,
+        "alternative": 1,
+        "review": "supports_original"
+      },
+      {
+        "id": "test/127",
+        "original": 3,
+        "alternative": 2,
+        "review": "unreviewed"
+      },
+      {
+        "id": "test/128",
+        "original": 3,
+        "alternative": 1,
+        "review": "supports_original"
+      },
+      {
+        "id": "test/129",
+        "original": 3,
+        "alternative": 2,
+        "review": "unreviewed"
+      },
+      {
+        "id": "test/130",
+        "original": 3,
+        "alternative": 0,
+        "review": "unreviewed"
+      },
+      {
+        "id": "test/135",
+        "original": 2,
+        "alternative": 3,
+        "review": "unreviewed"
+      },
+      {
+        "id": "test/142",
+        "original": 2,
+        "alternative": 1,
+        "review": "unreviewed"
+      },
+      {
+        "id": "test/148",
+        "original": 3,
+        "alternative": 1,
+        "review": "supports_original"
+      },
+      {
+        "id": "test/151",
+        "original": 1,
+        "alternative": 0,
+        "review": "unreviewed"
+      },
+      {
+        "id": "test/155",
+        "original": 3,
+        "alternative": 2,
+        "review": "unreviewed"
+      },
+      {
+        "id": "test/157",
+        "original": 1,
+        "alternative": 2,
+        "review": "supports_original"
+      },
+      {
+        "id": "test/159",
+        "original": 2,
+        "alternative": 0,
+        "review": "unreviewed"
+      },
+      {
+        "id": "test/161",
+        "original": 2,
+        "alternative": 0,
+        "review": "supports_original"
+      },
+      {
+        "id": "test/162",
+        "original": 1,
+        "alternative": 2,
+        "review": "unreviewed"
+      },
+      {
+        "id": "test/169",
+        "original": 3,
+        "alternative": 2,
+        "review": "unreviewed"
+      },
+      {
+        "id": "test/170",
+        "original": 0,
+        "alternative": 1,
+        "review": "supports_original"
+      },
+      {
+        "id": "test/173",
+        "original": 2,
+        "alternative": 0,
+        "review": "unreviewed"
+      },
+      {
+        "id": "test/178",
+        "original": 3,
+        "alternative": 0,
+        "review": "unreviewed"
+      },
+      {
+        "id": "test/180",
+        "original": 1,
+        "alternative": 3,
+        "review": "supports_original"
+      },
+      {
+        "id": "test/181",
+        "original": 3,
+        "alternative": 1,
+        "review": "supports_alternative"
+      },
+      {
+        "id": "test/184",
+        "original": 3,
+        "alternative": 2,
+        "review": "supports_original"
+      },
+      {
+        "id": "test/188",
+        "original": 2,
+        "alternative": 0,
+        "review": "unreviewed"
+      },
+      {
+        "id": "test/191",
+        "original": 0,
+        "alternative": 3,
+        "review": "unreviewed"
+      },
+      {
+        "id": "test/192",
+        "original": 2,
+        "alternative": 0,
+        "review": "unreviewed"
+      },
+      {
+        "id": "test/193",
+        "original": 3,
+        "alternative": 1,
+        "review": "unreviewed"
+      },
+      {
+        "id": "test/202",
+        "original": 3,
+        "alternative": 2,
+        "review": "supports_original"
+      },
+      {
+        "id": "test/205",
+        "original": 3,
+        "alternative": 1,
+        "review": "supports_original"
+      },
+      {
+        "id": "test/208",
+        "original": 3,
+        "alternative": 2,
+        "review": "supports_original"
+      },
+      {
+        "id": "test/212",
+        "original": 2,
+        "alternative": 1,
+        "review": "unreviewed"
+      }
+    ],
+    "queue_review_counts": {
+      "supports_original": 27,
+      "unreviewed": 34,
+      "supports_alternative": 2
+    }
+  },
+  "board_sha256": "f9f603dc3f63956d2d0851a7c344888e8b5428b7e483c19ef93fff541d4a6eb9",
+  "benchmark_sha256": "93c7ee41611572f6061c8a18aacf8251b85ac61bb3d94cc99569719f6a14cf75"
+}

@@ -1,0 +1,168 @@
+{
+  "items": 12,
+  "repeats": 3,
+  "first_seed": 17,
+  "split_items": 0,
+  "disagreement": 0.0,
+  "original_key_accuracy_by_run": [
+    0.25,
+    0.25,
+    0.25
+  ],
+  "by_item": [
+    {
+      "id": "test/181",
+      "votes": [
+        2,
+        2,
+        2
+      ],
+      "disagreement": 0.0
+    },
+    {
+      "id": "test/38",
+      "votes": [
+        1,
+        1,
+        1
+      ],
+      "disagreement": 0.0
+    },
+    {
+      "id": "test/102",
+      "votes": [
+        0,
+        0,
+        0
+      ],
+      "disagreement": 0.0
+    },
+    {
+      "id": "test/83",
+      "votes": [
+        2,
+        2,
+        2
+      ],
+      "disagreement": 0.0
+    },
+    {
+      "id": "test/140",
+      "votes": [
+        0,
+        0,
+        0
+      ],
+      "disagreement": 0.0
+    },
+    {
+      "id": "test/157",
+      "votes": [
+        1,
+        1,
+        1
+      ],
+      "disagreement": 0.0
+    },
+    {
+      "id": "test/101",
+      "votes": [
+        0,
+        0,
+        0
+      ],
+      "disagreement": 0.0
+    },
+    {
+      "id": "test/211",
+      "votes": [
+        1,
+        1,
+        1
+      ],
+      "disagreement": 0.0
+    },
+    {
+      "id": "test/100",
+      "votes": [
+        0,
+        0,
+        0
+      ],
+      "disagreement": 0.0
+    },
+    {
+      "id": "test/118",
+      "votes": [
+        0,
+        0,
+        0
+      ],
+      "disagreement": 0.0
+    },
+    {
+      "id": "test/120",
+      "votes": [
+        2,
+        2,
+        2
+      ],
+      "disagreement": 0.0
+    },
+    {
+      "id": "test/112",
+      "votes": [
+        3,
+        3,
+        3
+      ],
+      "disagreement": 0.0
+    }
+  ],
+  "judge": {
+    "name": "lexical-jaccard"
+  },
+  "disagreement_ci95": [
+    0.0,
+    0.0
+  ],
+  "frozen_response_grades": {
+    "Meta-Llama-3-8B": {
+      "accuracy_by_run": [
+        0.08333333333333333,
+        0.08333333333333333,
+        0.08333333333333333
+      ],
+      "score_sd": 0.0,
+      "flipped_items": 0,
+      "verdict_pair_disagreement": 0.0,
+      "mean_within_item_variance": 0.0,
+      "variance_ci95": [
+        0.0,
+        0.0
+      ]
+    },
+    "Meta-Llama-3-8B-Instruct": {
+      "accuracy_by_run": [
+        0.08333333333333333,
+        0.08333333333333333,
+        0.08333333333333333
+      ],
+      "score_sd": 0.0,
+      "flipped_items": 0,
+      "verdict_pair_disagreement": 0.0,
+      "mean_within_item_variance": 0.0,
+      "variance_ci95": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  "selection": "reviewed disputes first, then SHA-256 order by item ID",
+  "review_key_accuracy_by_run": [
+    0.3333333333333333,
+    0.3333333333333333,
+    0.3333333333333333
+  ],
+  "benchmark_sha256": "93c7ee41611572f6061c8a18aacf8251b85ac61bb3d94cc99569719f6a14cf75"
+}
